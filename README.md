@@ -44,8 +44,3 @@
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudjaycker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-  [![Mudjaycker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mudjaycker)](https://github.com/mudjaycker/github-readme-stats)
-<!--END_SECTION:waka-->
