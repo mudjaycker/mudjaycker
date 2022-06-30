@@ -2,7 +2,7 @@
 
 
 
-## I'm a Trapper, Beatmaker, Developer, and Polyglot, Teacher!!!
+## I'm a Trapper, Beatmaker, Developer, and Polyglot !!!
 
 - 🌱 I’m currently learning 3 natural languages 🤣
 - 👯 I’m looking to collaborate with other content creators
