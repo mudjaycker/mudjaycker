@@ -1,12 +1,12 @@
-# Mudjaycker  - aka [rekurzive] 👋 
+# Mudjaycker  - aka [rekurzive lambda] 👋 
 
 
 
 ## I'm a Trapper, Beatmaker, Developer, and Polyglot !!!
 
-- 🌱 I’m currently learning 3 natural languages 🤣
+- 🌱 I’m currently speaking just 5 natural languages and still learning the 6th 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about web3 and Languages and Compilation Theory
 - ⚡ Fun fact: I love beatmaking / hip pop 
 [Trap-Beat][Drill-Beat]
 - ⚡ Svelte is better than let's see ... 🤔 ? 🤣
