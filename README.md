@@ -33,8 +33,11 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudjaycker&layout=compact)](https://github.com/mudjaycker/github-readme-stats)
+
 <br />
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/mudjaycker/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mudjaycker)](https://github.com/mudjaycker/github-readme-stats)
 ```
