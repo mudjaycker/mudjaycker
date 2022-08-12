@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and Languages and Compilation Theory
 - ⚡ Fun fact: I like to reinvent the wheel
-[Trap-Beat][Drill-Beat]
+
 - ⚡ SvelteJs is better than let's see ... 🤔 ? 🤣
 
 
