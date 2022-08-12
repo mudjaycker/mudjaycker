@@ -7,9 +7,9 @@
 - 🌱 I’m currently speaking just 5 natural languages and still learning the 6th 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and Languages and Compilation Theory
-- ⚡ Fun fact: I love beatmaking / hip pop 
+- ⚡ Fun fact: I like to reinvent the wheel
 [Trap-Beat][Drill-Beat]
-- ⚡ Svelte is better than let's see ... 🤔 ? 🤣
+- ⚡ SvelteJs is better than let's see ... 🤔 ? 🤣
 
 
 ### Languages and Tools:
