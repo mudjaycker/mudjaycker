@@ -2,7 +2,8 @@
 
 
 
-## I'm a Trapper, Beatmaker, Developer, and Polyglot !!!
+## I'm a Trapper, Beatmaker with LMMS <img align="left" alt="LMMS" width="26px" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px;" /> , Developer, and Polyglot !!!
+
 
 - 🌱 I’m currently speaking just 5 natural languages and still learning the 6th 🤣
 - 👯 I’m looking to collaborate with other content creators
