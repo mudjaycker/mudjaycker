@@ -34,10 +34,7 @@
 <br />
 <br />
 
-<div>
-<img align="center" width=44.5% src="https://github-readme-stats.vercel.app/api/top-langs?username=mudjaycker&show_icons=true&locale=en&layout=compact" alt="mudjaycker" />
-<img align="center" width=54.5% src="https://github-readme-stats.vercel.app/api?username=mudjaycker&show_icons=true&locale=en" alt="mudjaycker" />
-</div>
+
 
 
 <a href="http://www.github.com/mudjaycker"><img width=100% src="https://activity-graph.herokuapp.com/graph?username=mudjaycker&bg_color=fff&color=000&line=59F&point=36A&area_color=59F&area=true&hide_border=false&custom_title=My%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
