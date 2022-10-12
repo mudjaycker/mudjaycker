@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Learn more about web3 and Languages and Compilation Theory
 - ⚡ Fun fact: I like to reinvent the wheel
 
-- ⚡ SvelteJs is better than let's see ... 🤔 ? 🤣
+- ⚡ Svelte.js is better than let's see ... 🤔 ?  pretty much all JS front-end framework I've had to use🤣
 
 
 ### Languages and Tools:
