@@ -5,7 +5,7 @@
 ## I'm a Trapper, Beatmaker with LMMS <img align="left" alt="LMMS" width="26px" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px;" /> , Developer, and Polyglot !!!
 
 
-- 🌱 I’m currently speaking just 5 natural languages and still learning the 6th 🤣
+- 🌱 I’m currently speaking just 6 fluently natural languages and still searching for the next 7th 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and Languages and Compilation Theory
 - ⚡ Fun fact: I like to reinvent the wheel
