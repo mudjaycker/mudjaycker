@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently speaking just 6 natural languages fluently and still searching for the next 7th 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3 and Languages and Compilation Theory
+- 🥅 2023 Goals: Learn more AI and Languages and Compilation Theory
 - ⚡ Fun fact: I like to reinvent the wheel
 
 - ⚡ Svelte.js is better than let's see ... 🤔 ?  pretty much all JS front-end framework I've had to use🤣
