@@ -35,6 +35,4 @@
 <br />
 
 
-
-
-<a href="http://www.github.com/mudjaycker"><img width=100% src="https://activity-graph.herokuapp.com/graph?username=mudjaycker&bg_color=fff&color=000&line=59F&point=36A&area_color=59F&area=true&hide_border=false&custom_title=My%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mudjaycker&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
