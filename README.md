@@ -5,7 +5,7 @@
 ## I'm a Poet, Beatmaker with LMMS <img align="left" alt="LMMS" width="26px" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px;" /> , and Developer!!!
 
 
-- 🌱 I’m currently speaking just 5 natural languages fluently and still learning the 6th, and I searching for the next 7th asynchronously 🤣.
+- 🌱 I’m currently speaking just 5 natural languages fluently and still learning the 6th, and I'm searching for the next 7th asynchronously 🤣.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more AI and Languages and Compilation Theory
 - ⚡ Fun fact: I like to reinvent the wheel
