@@ -2,15 +2,15 @@
 
 
 
-## I'm a Trapper, Beatmaker with LMMS <img align="left" alt="LMMS" width="26px" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px;" /> , Developer, and Polyglot !!!
+## I'm a Poet, Beatmaker with LMMS <img align="left" alt="LMMS" width="26px" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px;" /> , and Developer!!!
 
 
-- 🌱 I’m currently speaking just 6 natural languages fluently and still searching for the next 7th 🤣
+- 🌱 I’m currently speaking just 5 natural languages fluently and still learning the 6th, and I searching for the next 7th asynchronously 🤣.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more AI and Languages and Compilation Theory
 - ⚡ Fun fact: I like to reinvent the wheel
 
-- ⚡ Svelte.js is better than let's see ... 🤔 ?  pretty much all JS front-end framework I've had to use🤣
+- ⚡ The best way to do something is to do it like you'll die if you do'nt.
 
 
 ### Languages and Tools:
