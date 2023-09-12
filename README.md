@@ -37,4 +37,4 @@
 [![Mudjaycker GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mudjaycker&theme=algolia&show_icons=true&hide=html,css)](https://github.com/mudjaycker)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mudjaycker&point=ffff&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mudjaycker&point=0000&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
