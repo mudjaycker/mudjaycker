@@ -2,7 +2,7 @@
 
 <img src="./img/logo.png"/>
 
-## I'm a Poet, Beatmaker with LMMS <img align="left" alt="LMMS" width="40" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px; " /> , and Developer!!!
+## I'm a Poet, Beatmaker with <a href=https://lmms.io/> LMMS <img alt="LMMS" width="40" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px; " /></a>, and Developer!!!
 
 ### Languages and Tools:
 
