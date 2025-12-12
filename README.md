@@ -1,6 +1,6 @@
-# Mudjaycker - aka [rekurzive lambda] 👋
+# Mudjaycker - aka [rekurzive lambda], The CEO of BIOS (Burundian It Oriented Society) 👋
 
-<img src="./img/logo.png"/>
+<img src="./img/logo2.png"/>
 
 ## I'm a Poet, Beatmaker with <a href="https://lmms.io" target="_blank" rel="noopener noreferrer"/> LMMS <img alt="LMMS" width="40" src="https://lmms.io/img/logo_sm.png" style="padding-right:10px; " /></a>, and Developer!!!
 
