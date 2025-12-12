@@ -150,6 +150,6 @@
 <br />
 <br />
 
-[![Mudjaycker GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mudjaycker&layout=donut-vertical&hide=html,css&langs_count=10)](https://github.com/mudjaycker)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mudjaycker?cardType=octocat&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mudjaycker&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
