@@ -1,4 +1,4 @@
-# Mudjaycker - aka [rekurzive lambda], The CEO of BIOS (Burundian It Oriented Society) 👋
+# Mudjaycker - aka [rekurzive lambda], The CEO of BIOS (Burundian IT Oriented Society) 👋
 
 <img src="./img/logo2.png"/>
 
